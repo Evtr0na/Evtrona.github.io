@@ -1,10 +1,11 @@
-在文本修改器输入：
+在文本修改器中输入以下代码并运行：
 
+```
 import bpy
 import os
 
 # --- 请再次确认你的 Icons 文件夹真实路径 ---
-icon_folder = r"图标路径"
+icon_folder = r"在这里输入你的 Icons 文件夹真实路径"
 
 def link_external_icons_fixed():
     count = 0
@@ -40,3 +41,4 @@ def link_external_icons_fixed():
 
 # 执行函数
 link_external_icons_fixed()
+```
