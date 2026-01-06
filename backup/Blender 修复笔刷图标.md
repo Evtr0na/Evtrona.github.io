@@ -1,6 +1,6 @@
 在文本修改器中输入以下代码并运行：
 
-```
+```Python
 import bpy
 import os
 

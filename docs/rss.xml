@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Evtrona的博客</title><link>https://Evtr0na.github.io/Evtrona.github.io</link><description>随便弄弄</description><copyright>Evtrona的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/210319689?u=87a8087a9e109cbaaadbdf49a9d5ebbf8b8c19fa&amp;v=4</url><title>avatar</title><link>https://Evtr0na.github.io/Evtrona.github.io</link></image><lastBuildDate>Tue, 06 Jan 2026 10:34:47 +0000</lastBuildDate><managingEditor>Evtrona的博客</managingEditor><ttl>60</ttl><webMaster>Evtrona的博客</webMaster><item><title>Blender 修复笔刷图标</title><link>https://Evtr0na.github.io/Evtrona.github.io/post/Blender%20-xiu-fu-bi-shua-tu-biao.html</link><description>在文本修改器中输入以下代码并运行：
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Evtrona的博客</title><link>https://Evtr0na.github.io/Evtrona.github.io</link><description>随便弄弄</description><copyright>Evtrona的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/210319689?u=87a8087a9e109cbaaadbdf49a9d5ebbf8b8c19fa&amp;v=4</url><title>avatar</title><link>https://Evtr0na.github.io/Evtrona.github.io</link></image><lastBuildDate>Tue, 06 Jan 2026 10:45:23 +0000</lastBuildDate><managingEditor>Evtrona的博客</managingEditor><ttl>60</ttl><webMaster>Evtrona的博客</webMaster><item><title>Blender 修复笔刷图标</title><link>https://Evtr0na.github.io/Evtrona.github.io/post/Blender%20-xiu-fu-bi-shua-tu-biao.html</link><description>在文本修改器中输入以下代码并运行：
 
-```
+```Python
 import bpy
 import os
 
